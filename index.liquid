@@ -1,0 +1,18 @@
+---
+title: Pinyin Express
+layout: main
+---
+<header>
+  <h1><span id="pinyin">pīnyīn</span> express</h1>
+  {% comment %}<a href="">about</a>{% endcomment %}
+  <a href="http://www.pinyin.info/readings/zyg/rules.html">pīnyīn rules ➚</a>
+  {% comment %}<a href="">twitter ➚</a>{% endcomment %}
+</header>
+<main>
+{% assign posts = collections.posts | reverse %}
+{% for post in posts %}
+  <p>
+    {{ post.date | date: "%Y-%m-%d"}} → <a class="post-list-title" href="{{ post.url }}">{{ post.data.title }}</a> <span class="source_org">[{{ post.data.source_org }}]</span>
+  </p>
+{% endfor %}
+</main>
