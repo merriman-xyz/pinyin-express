@@ -2,7 +2,7 @@
 tags: ['posts', 'slow-chinese']
 layout: post
 title: Yán Zhēnqīng 
-post_date: 2021-05-29
+date: 2021-05-29
 series_position: 191 
 
 source_title: 191 - 颜真卿

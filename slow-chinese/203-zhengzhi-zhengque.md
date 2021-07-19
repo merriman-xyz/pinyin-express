@@ -2,7 +2,7 @@
 tags: ['posts', 'slow-chinese']
 layout: post
 title: Zhèngzhì Zhèngquè 
-post_date: 2021-05-28
+date: 2021-05-28
 series_position: 203
 
 source_title: 203 - 政治正确

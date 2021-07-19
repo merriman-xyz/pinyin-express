@@ -2,7 +2,7 @@
 tags: ['posts', 'slow-chinese']
 layout: post
 title:  Měitú Xiùxiu
-post_date: 2021-05-27
+date: 2021-05-27
 series_position: 204
 
 source_title: 204 - 美图秀秀

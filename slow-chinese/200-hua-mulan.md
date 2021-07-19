@@ -2,7 +2,7 @@
 tags: ['posts', 'slow-chinese']
 layout: post
 title: Huā Mùlán
-post_date: 2021-05-26
+date: 2021-05-26
 series_position: 200
 
 source_title: 200 - 花木兰

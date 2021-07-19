@@ -2,7 +2,7 @@
 tags: ['posts', 'slow-chinese']
 layout: post
 title: Xīngbākè zài Zhōngguó 
-post_date: 2021-06-07
+date: 2021-06-07
 series_position: 185
 
 source_title: 185 - 星巴克在中国

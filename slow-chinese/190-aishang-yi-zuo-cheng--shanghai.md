@@ -2,7 +2,7 @@
 tags: ['posts', 'slow-chinese']
 layout: post
 title: Àishang yī zuò Chéng - Shànghǎi 
-post_date: 2021-06-01
+date: 2021-06-01
 series_position: 190
 
 source_title: 190 - 爱上一座城——上海
