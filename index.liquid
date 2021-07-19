@@ -12,7 +12,7 @@ layout: main
 {% assign posts = collections.posts | reverse %}
 {% for post in posts %}
   <p>
-    {{ post.data.post_date }} → <a class="post-list-title" href="{{ post.url }}">{{ post.data.title }}</a> <span class="source_org">[{{ post.data.source_org }}]</span>
+    {{ post.data.post_date | date: "%Y-%m-%d"}} → <a class="post-list-title" href="{{ post.url }}">{{ post.data.title }}</a> <span class="source_org">[{{ post.data.source_org }}]</span>
   </p>
 {% endfor %}
 </main>
